@@ -1,0 +1,12 @@
+
+
+.header{
+    height: 100px;
+    width:900px;
+    background-color: aqua;
+}
+
+
+li{
+    display: inline;
+}
